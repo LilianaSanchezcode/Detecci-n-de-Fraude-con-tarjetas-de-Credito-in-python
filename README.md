@@ -7,7 +7,11 @@ Las empresas y las instituciones públicas se enfrentan a un problema masivo deb
 Según Statista (https://es.statista.com/), el fraude bruto alcanzó los $ 5.6B en 2012, mientras que en 2018, la pérdida por fraude alcanzó los $ 9.100 millones, que es aproximadamente dos quintas partes de la pérdida total.
 
 En particular, el 70% de estos fraudes son fraudes con tarjeta no presente (CNP) (es decir, fraudes realizado en línea o por teléfono), el 20% son falsificaciones y el 10% restante de casos están relacionados a pérdidas debidas a tarjetas pérdidas o robadas [personal].
-Cuando no se puede evitar que se produzca un fraude, debe detectarse lo antes posible. como sea posible, y se deben tomar las acciones necesarias en su contra. La detección de fraude, es el proceso de detectar si una transacción es legítima o no. Sistemas automatizados de detección de fraudes, son necesarios especialmente teniendo en cuenta el enorme tráfico de datos de transacciones, y no es posible humanos para verificar manualmente cada transacción una por una, si es fraudulenta o no. Este proyecto tratará la detección de fraudes mediante técnicas de aprendizaje automático, más específicamente aprendizaje supervisado (modelos de clasificación).
+
+Cuando no se puede evitar que se produzca un fraude, debe detectarse lo antes posible. como sea posible, y se deben tomar las acciones necesarias en su contra. La detección de fraude, es el proceso de detectar si una transacción es legítima o no. 
+
+
+Sistemas automatizados de detección de fraudes, son necesarios especialmente teniendo en cuenta el enorme tráfico de datos de transacciones, y no es posible humanos para verificar manualmente cada transacción una por una, si es fraudulenta o no. Este proyecto tratará la detección de fraudes mediante técnicas de aprendizaje automático, más específicamente aprendizaje supervisado (modelos de clasificación).
 
 
 **Datos:**
