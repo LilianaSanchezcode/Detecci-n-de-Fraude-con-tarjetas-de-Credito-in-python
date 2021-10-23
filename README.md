@@ -51,8 +51,7 @@ ________________________________________
 **Hallazgos:**
 
 Los modelos que presentan mayor rendimiento según su AUC son: 
-Modelo de Regresión Logística  con AUC=0.977
-El modelo Adaboost con AUC=0.964
+Modelo de Regresión Logística  con AUC=0.977 y el modelo Adaboost con AUC=0.964
 
 
 
