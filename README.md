@@ -31,7 +31,7 @@ ________________________________________
 
 - Identificación de la cantidad de variables y registros del data set
 - Identificación de variables categóricas y numéricas 
-- Distribución percentilica de las variables: Time, y cantidad
+- Distribución percentilica de las variables: Time, y  Amount
 - Histograma de las variables: Time y Amount.
 - Matriz de correlación  de las variables 
 - Identificación de variables con valores outliers mediante Box Plot
